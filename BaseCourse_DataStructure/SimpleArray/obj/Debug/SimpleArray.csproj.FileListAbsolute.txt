@@ -1,0 +1,16 @@
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\SimpleArray.exe.config
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\SimpleArray.exe
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\SimpleArray.pdb
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\nunit.framework.dll
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\nunit.framework.pdb
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\nunit.framework.xml
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\obj\Debug\SimpleArray.csprojAssemblyReference.cache
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\obj\Debug\SimpleArray.csproj.CoreCompileInputs.cache
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\obj\Debug\SimpleArray.csproj.CopyComplete
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\obj\Debug\SimpleArray.exe
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\obj\Debug\SimpleArray.pdb
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\NUnit3.TestAdapter.dll
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\nunit.engine.dll
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\nunit.engine.api.dll
+C:\Stepik Csh\Базовый курс по структурам данных\SimpleArray\bin\Debug\nunit.engine.core.dll

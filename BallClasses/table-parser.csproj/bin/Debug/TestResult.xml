@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="TableParser.exe" fullname="C:/Stepik Csh/table-parser.csproj/bin/Debug/TableParser.exe" testcasecount="4" result="Failed" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.220680" total="4" passed="3" failed="1" inconclusive="0" skipped="0" asserts="3" random-seed="1475851164">
+  <command-line><![CDATA["C:\Stepik Csh\table-parser.csproj\bin\Debug\TableParser.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1007" name="TableParser.exe" fullname="C:/Stepik Csh/table-parser.csproj/bin/Debug/TableParser.exe" runstate="Runnable" testcasecount="4" result="Failed" site="Child" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.220680" total="4" passed="3" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="3">
+    <environment framework-version="3.12.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601.65536" platform="Win32NT" cwd="C:\Stepik Csh\table-parser.csproj\bin\Debug" machine-name="WIN-IO41QPMABVC" user="home" user-domain="WIN-IO41QPMABVC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Stepik Csh\table-parser.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="2" />
+    </settings>
+    <properties>
+      <property name="_PID" value="9444" />
+      <property name="_APPDOMAIN" value="TableParser.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1008" name="TableParser" fullname="TableParser" runstate="Runnable" testcasecount="4" result="Failed" site="Child" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.208852" total="4" passed="3" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="3">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1006" name="FieldParserTaskTests" fullname="TableParser.FieldParserTaskTests" classname="TableParser.FieldParserTaskTests" runstate="Runnable" testcasecount="0" result="Passed" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.000852" total="0" passed="0" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0" />
+      <test-suite type="TestFixture" id="1000" name="QuotedFieldTaskTests" fullname="TableParser.QuotedFieldTaskTests" classname="TableParser.QuotedFieldTaskTests" runstate="Runnable" testcasecount="4" result="Failed" site="Child" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.200124" total="4" passed="3" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1005" name="MyTest" fullname="TableParser.QuotedFieldTaskTests.MyTest" methodname="MyTest" classname="TableParser.QuotedFieldTaskTests" runstate="Runnable" seed="207708384" result="Passed" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.005388" asserts="0" />
+        <test-suite type="ParameterizedMethod" id="1004" name="Test" fullname="TableParser.QuotedFieldTaskTests.Test" classname="TableParser.QuotedFieldTaskTests" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.190514" total="3" passed="2" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1001" name="Test(&quot;''&quot;,0,&quot;&quot;,2)" fullname="TableParser.QuotedFieldTaskTests.Test(&quot;''&quot;,0,&quot;&quot;,2)" methodname="Test" classname="TableParser.QuotedFieldTaskTests" runstate="Runnable" seed="1220463096" result="Passed" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.019169" asserts="1" />
+          <test-case id="1002" name="Test(&quot;'a'&quot;,0,&quot;a&quot;,3)" fullname="TableParser.QuotedFieldTaskTests.Test(&quot;'a'&quot;,0,&quot;a&quot;,3)" methodname="Test" classname="TableParser.QuotedFieldTaskTests" runstate="Runnable" seed="178103622" result="Passed" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.000109" asserts="1" />
+          <test-case id="1003" name="Test(&quot;a\&quot;b&quot;,0,&quot;a\&quot;b&quot;,4)" fullname="TableParser.QuotedFieldTaskTests.Test(&quot;a\&quot;b&quot;,0,&quot;a\&quot;b&quot;,4)" methodname="Test" classname="TableParser.QuotedFieldTaskTests" runstate="Runnable" seed="1280657133" result="Failed" start-time="2020-07-03 07:43:18Z" end-time="2020-07-03 07:43:18Z" duration="0.169169" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <[ab]       Position=0 Length=3>
+  But was:  <[a"b]      Position=0 Length=4>
+]]></message>
+              <stack-trace><![CDATA[   в TableParser.QuotedFieldTaskTests.Test(String line, Int32 startIndex, String expectedValue, Int32 expectedLength) в C:\Stepik Csh\table-parser.csproj\QuotedFieldTask.cs:строка 20
+]]></stack-trace>
+            </failure>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <[ab]       Position=0 Length=3>
+  But was:  <[a"b]      Position=0 Length=4>
+]]></message>
+                <stack-trace><![CDATA[   в TableParser.QuotedFieldTaskTests.Test(String line, Int32 startIndex, String expectedValue, Int32 expectedLength) в C:\Stepik Csh\table-parser.csproj\QuotedFieldTask.cs:строка 20
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

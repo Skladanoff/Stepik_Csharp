@@ -1,0 +1,14 @@
+C:\Stepik Csh\BallClasses\StupidBall\bin\Debug\StupidBall.exe.config
+C:\Stepik Csh\BallClasses\StupidBall\bin\Debug\StupidBall.exe
+C:\Stepik Csh\BallClasses\StupidBall\bin\Debug\StupidBall.pdb
+C:\Stepik Csh\BallClasses\StupidBall\bin\Debug\WindowsFormsBalls.exe
+C:\Stepik Csh\BallClasses\StupidBall\bin\Debug\WindowsFormsBalls.pdb
+C:\Stepik Csh\BallClasses\StupidBall\bin\Debug\WindowsFormsBalls.exe.config
+C:\Stepik Csh\BallClasses\StupidBall\obj\Debug\StupidBall.csprojAssemblyReference.cache
+C:\Stepik Csh\BallClasses\StupidBall\obj\Debug\StupidBall.FormGameStupidBalls.resources
+C:\Stepik Csh\BallClasses\StupidBall\obj\Debug\StupidBall.Properties.Resources.resources
+C:\Stepik Csh\BallClasses\StupidBall\obj\Debug\StupidBall.csproj.GenerateResource.cache
+C:\Stepik Csh\BallClasses\StupidBall\obj\Debug\StupidBall.csproj.CoreCompileInputs.cache
+C:\Stepik Csh\BallClasses\StupidBall\obj\Debug\StupidBall.csproj.CopyComplete
+C:\Stepik Csh\BallClasses\StupidBall\obj\Debug\StupidBall.exe
+C:\Stepik Csh\BallClasses\StupidBall\obj\Debug\StupidBall.pdb

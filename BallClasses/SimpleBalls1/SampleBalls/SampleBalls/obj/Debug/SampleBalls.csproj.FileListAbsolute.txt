@@ -1,0 +1,10 @@
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\bin\Debug\SampleBalls.exe.config
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\bin\Debug\SampleBalls.exe
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\bin\Debug\SampleBalls.pdb
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\obj\Debug\SampleBalls.csprojAssemblyReference.cache
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\obj\Debug\SampleBalls.Form1.resources
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\obj\Debug\SampleBalls.Properties.Resources.resources
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\obj\Debug\SampleBalls.csproj.GenerateResource.cache
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\obj\Debug\SampleBalls.csproj.CoreCompileInputs.cache
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\obj\Debug\SampleBalls.exe
+E:\Works\CSharp\Balls\SimpleBalls\SampleBalls\SampleBalls\obj\Debug\SampleBalls.pdb

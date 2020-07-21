@@ -1,0 +1,20 @@
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\bin\Debug\SimpleBalls.exe.config
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\bin\Debug\SimpleBalls.exe
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\bin\Debug\SimpleBalls.pdb
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\obj\Debug\SimpleBalls.csprojAssemblyReference.cache
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\obj\Debug\SimpleBalls.Form1.resources
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\obj\Debug\SimpleBalls.Properties.Resources.resources
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\obj\Debug\SimpleBalls.csproj.GenerateResource.cache
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\obj\Debug\SimpleBalls.csproj.CoreCompileInputs.cache
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\obj\Debug\SimpleBalls.exe
+E:\Works\CSharp\Balls\SimpleBalls\SimpleBalls\obj\Debug\SimpleBalls.pdb
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\bin\Debug\SimpleBalls.exe.config
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\bin\Debug\SimpleBalls.exe
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\bin\Debug\SimpleBalls.pdb
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\obj\Debug\SimpleBalls.csprojAssemblyReference.cache
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\obj\Debug\SimpleBalls.Form1.resources
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\obj\Debug\SimpleBalls.Properties.Resources.resources
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\obj\Debug\SimpleBalls.csproj.GenerateResource.cache
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\obj\Debug\SimpleBalls.csproj.CoreCompileInputs.cache
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\obj\Debug\SimpleBalls.exe
+C:\Stepik Csh\SimpleBalls1\SimpleBalls\obj\Debug\SimpleBalls.pdb
